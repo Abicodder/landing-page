@@ -1,0 +1,86 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 50px;
+
+}
+.header{
+    
+    padding: 50px 100px;
+    background-color: rgb(17, 19, 64);
+    color: white;
+    
+}
+.header-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.bottom{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.bottom-left{
+    
+    width: 500px;
+    padding: ;
+}
+.holder{
+    
+    width: 500px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(160, 160, 192);
+}
+button{
+    background-color: blue;
+    padding: 10px;
+    color: aliceblue;
+}
+.information{
+    padding: 0px 100px;
+    background-color: white;
+    text-align: center;
+}
+.card{
+    width: 200px;
+    height: 200px;
+    
+}
+.subtext{
+    display: flex;
+}
+.quote{
+    display: flex;
+    flex-direction: column;
+    padding: 50px 300px;
+    background-color: aliceblue;
+    font-size:large;
+}
+.author{
+    display: flex;
+    justify-content: flex-end;
+    font-weight: bold;
+}
+.signup{
+    padding: 0px 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: blue;
+    color: white;
+    margin: 0px 100px;
+}
+.footer{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    background-color: rgb(60, 54, 54);
+    color: white;
+    padding: 0px 100px;
+}
