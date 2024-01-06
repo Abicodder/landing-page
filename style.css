@@ -8,7 +8,8 @@ body{
 }
 .header{
     
-    padding: 50px 100px;
+    padding: 0px 100px;
+    padding-bottom: 50px;
     background-color: rgb(17, 19, 64);
     color: white;
     
